@@ -3,10 +3,10 @@
 ## Introduction of the tasks
 Hello! Here are two main tasks: 
 
-Task A
+Task A. Message Polarity Classification: Given a message, classify whether the message is of positive, negative, or neutral sentiment.
 This task is divided into 2 parts: English and Arabic.
 
-Task B
+Task B. Given a message and a topic, classify the message on two-point scale: positive or negative sentiment towards that topic.
 This task is implemented only in English.
 
 ## File organization
@@ -29,4 +29,4 @@ To run the code, please do:
 4. Run Run.ipynb in Google Colab
 
 ## Necessary packages
-ekphrasis, keras-self-attention, keras-tuner --upgrade (actually all of them are in Google Colab)
+Need to pip install ekphrasis, keras-self-attention, keras-tuner --upgrade
