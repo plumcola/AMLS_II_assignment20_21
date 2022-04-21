@@ -3,11 +3,11 @@
 ## Introduction of the tasks
 Hello! Here are two main tasks: 
 
-Task A. B
-This task is divided into 2 parts: CNN model and SVM model.
+Task A
+This task is divided into 2 parts: English and Arabic.
 
-Task B. M
-This task is implemented by only CNN model.
+Task B
+This task is implemented only in English.
 
 ## File organization
 
